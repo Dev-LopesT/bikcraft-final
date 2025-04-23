@@ -21,7 +21,6 @@
 .header-menu a {
   display: inline-block;
   padding: 16px 0px;
-  font-size: 1.125rem;
   position: relative;
 }
 
@@ -49,8 +48,6 @@
     background-color: var(--cor-11);
     padding: 12px 16px;
     border-radius: 4px;
-    font-family: 'Poppins';
-    font-weight: 400;
   }
 
   .header-menu a::after {
