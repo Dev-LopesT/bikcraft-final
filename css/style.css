@@ -5,6 +5,9 @@
 /* Header */
 @import url("./global/header.css");
 
+/* Footer */
+@import url("./global/footer.css");
+
 /* Utilidades */
 @import url("./utilidades/componentes.css");
 
@@ -16,3 +19,6 @@
 
 /* Bicicletas */
 @import url("./bicicletas/bicicletas-lista.css");
+
+/* Seguros */
+@import url("../css/seguros/seguros.css");
